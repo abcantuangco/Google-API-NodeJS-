@@ -1,0 +1,16 @@
+{
+  "name": "googleapi",
+  "version": "1.0.0",
+  "description": "A Google API POC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "poc"
+  ],
+  "author": "Arsenio Cantuangco Jr.",
+  "license": "ISC"
+}
